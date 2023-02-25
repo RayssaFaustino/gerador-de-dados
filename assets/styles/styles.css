@@ -1,0 +1,16 @@
+body {
+    background-color: gray;
+}
+
+section {
+    background-color: lightgray;
+    width: 500px;
+    margin: 200px auto;
+    padding: 20px;
+
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+}
